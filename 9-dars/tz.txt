@@ -1,0 +1,3 @@
+statement va row farqi
+statement - nech marta qoshsegam 1 marta chiqariladi
+row - 20 marta qoshsak 20 ta chaqiriladi

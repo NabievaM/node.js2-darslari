@@ -1,0 +1,37 @@
+LOGIN              
+--Username          
+--Password 
+
+ABOUT
+--Post{id , title , decription , photo}
+--Get
+--Delete (isAuth)
+
+
+GALLERY
+--Post , {id,photo , title}
+--Delete(isAuth)
+--Get
+
+SERVICES            
+--Post{
+   id, title , photo , description
+},                  
+--getAll  |isAuth   
+--get     |isAuth   
+--delete  |isAuth   
+--Put     |isAuth  
+
+FEEDBACK            
+--Post{
+    id ,name , description , photo
+}                   
+--delete            
+--getAll            
+--Put     
+
+CONTACT             
+--Post{
+   id, name , phoneNumber , email , message
+}  
+--get
